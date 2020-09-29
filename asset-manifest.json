@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ErrorBoundarySimple/static/css/main.d957a0c0.chunk.css",
+    "main.js": "/ErrorBoundarySimple/static/js/main.2a583971.chunk.js",
+    "main.js.map": "/ErrorBoundarySimple/static/js/main.2a583971.chunk.js.map",
+    "runtime-main.js": "/ErrorBoundarySimple/static/js/runtime-main.ba9a8df7.js",
+    "runtime-main.js.map": "/ErrorBoundarySimple/static/js/runtime-main.ba9a8df7.js.map",
+    "static/js/2.a5652225.chunk.js": "/ErrorBoundarySimple/static/js/2.a5652225.chunk.js",
+    "static/js/2.a5652225.chunk.js.map": "/ErrorBoundarySimple/static/js/2.a5652225.chunk.js.map",
+    "index.html": "/ErrorBoundarySimple/index.html",
+    "precache-manifest.135ce0262f440982981ce7a5b8174d94.js": "/ErrorBoundarySimple/precache-manifest.135ce0262f440982981ce7a5b8174d94.js",
+    "service-worker.js": "/ErrorBoundarySimple/service-worker.js",
+    "static/css/main.d957a0c0.chunk.css.map": "/ErrorBoundarySimple/static/css/main.d957a0c0.chunk.css.map",
+    "static/js/2.a5652225.chunk.js.LICENSE.txt": "/ErrorBoundarySimple/static/js/2.a5652225.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba9a8df7.js",
+    "static/js/2.a5652225.chunk.js",
+    "static/css/main.d957a0c0.chunk.css",
+    "static/js/main.2a583971.chunk.js"
+  ]
+}
